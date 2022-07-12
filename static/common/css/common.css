@@ -1,0 +1,40 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+    outline: 1px solid black;
+}
+
+.idpass{
+    display: flex;
+    flex-direction: column;
+}
+
+.login{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.enter{
+    text-decoration: underline;
+    cursor: pointer;
+}

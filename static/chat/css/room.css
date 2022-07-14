@@ -1,0 +1,17 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.input{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.chatting{
+    display: flex;
+}
